@@ -4,7 +4,7 @@
 Here to save some papers&codes in graph2text and text2graph area
 
 ### 2023
-- Latent Constraints on Unsupervised Text-Graph Alignment with Information Asymmetry
+- Latent Constraints on Unsupervised Text-Graph Alignment with Information Asymmetry. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26600)
 
 ### 2022
 - Knowledge Graph Generation From Text. [[paper]](https://arxiv.org/abs/2211.10511) [[code]](https://github.com/IBM/Grapher)
