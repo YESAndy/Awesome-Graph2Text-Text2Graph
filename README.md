@@ -1,7 +1,8 @@
 # Awesome-Graph2Text-Text2Graph
-
-## Introduction
 Here to save some papers&codes in graph2text and text2graph area
+
+## Update
+Start to document paper with codes in graph2text and text2graph :blush: . [2024/02/02]
 
 ### 2023
 - Latent Constraints on Unsupervised Text-Graph Alignment with Information Asymmetry. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26600)
