@@ -12,5 +12,6 @@ Here to save some papers&codes in graph2text and text2graph area
 ### 2020
 - CycleGT: Unsupervised Graph-to-Text and Text-to-Graph Generation via Cycle Training. [[paper]](https://arxiv.org/abs/2006.04702) [[code]](https://github.com/QipengGuo/CycleGT)
 
-
+### 2019
+- Unsupervised Adversarial Graph Alignment with Graph Embedding. [[paper]](https://arxiv.org/pdf/1907.00544.pdf) [[code]](https://github.com/ZheHanLiang/UAGA)
 
